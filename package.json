@@ -1,7 +1,7 @@
 {
   "name": "zwift-overlay",
   "productName": "Zwift Overlay",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Customizable HUD overlay for Zwift (Windows)",
   "private": true,
   "main": "./out/main/index.js",
